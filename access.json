@@ -1,0 +1,1546 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Title": "Coworking Space",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "alt_not_needed",
+				"Separate entrance well marked": null,
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "no_too_small",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.950804",
+				"venue_lng": "-75.14566663000001",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14566663000001", "39.950804"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Gastropub",
+				"Description": "no",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.96445113587629",
+				"venue_lng": "-75.16151239629244",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16151239629244", "39.96445113587629"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Restaurant",
+				"Description": "no",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "no_too_small",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.92952685682914",
+				"venue_lng": "-75.16377534993646",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16377534993646", "39.92952685682914"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Building",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "yes_at_rear",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.95092489994615",
+				"venue_lng": "-75.15295049859171",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15295049859171", "39.95092489994615"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Multiplex",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.977714088573734",
+				"venue_lng": "-75.15844567160119",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15844567160119", "39.977714088573734"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Church",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_kinda_small",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.9430522921527",
+				"venue_lng": "-75.23250339605372",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.23250339605372", "39.9430522921527"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Print Shop",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.953786",
+				"venue_lng": "-75.173571",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.173571", "39.953786"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Sushi Restaurant",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.951954",
+				"venue_lng": "-75.171788",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.171788", "39.951954"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Middle Eastern Restaurant",
+				"Description": "no",
+				"Main door": "no_door",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "could_not_assess",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "no",
+				"Noise level": "cound_not_assess",
+				"venue_lat": "39.95603621006012",
+				"venue_lng": "-75.175742",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.175742", "39.95603621006012"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Sandwich Place",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.9559",
+				"venue_lng": "-75.176298",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.176298", "39.9559"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Grocery Store",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95434760443989",
+				"venue_lng": "-75.17610986901946",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17610986901946", "39.95434760443989"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Coffee Shop",
+				"Description": "no",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_kinda_small",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.950682355393766",
+				"venue_lng": "-75.14474728483674",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14474728483674", "39.950682355393766"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Boutique",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.950136",
+				"venue_lng": "-75.144425",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.144425", "39.950136"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Indian Restaurant",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.940695234028766",
+				"venue_lng": "-75.16596417081365",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16596417081365", "39.940695234028766"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Bank",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "40.004817",
+				"venue_lng": "-75.220173",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.220173", "40.004817"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Home (private)",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "40.01187902018787",
+				"venue_lng": "-75.06695522632855",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.06695522632855", "40.01187902018787"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Home (private)",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "40.01187902018787",
+				"venue_lng": "-75.06695522632855",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.06695522632855", "40.01187902018787"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Building",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.95009148275576",
+				"venue_lng": "-75.14462186755118",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14462186755118", "39.95009148275576"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Residential Building (Apartment / Condo)",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.13687923279997",
+				"venue_lng": "-76.8540754429989",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-76.8540754429989", "39.13687923279997"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Light Rail",
+				"Description": "no",
+				"Main door": "no_door",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "could_not_assess",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "no",
+				"Noise level": "quiet",
+				"venue_lat": "40.08135509251609",
+				"venue_lng": "-75.34908771514893",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.34908771514893", "40.08135509251609"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Deli / Bodega",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.948944091796875",
+				"venue_lng": "-75.14602661132812",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14602661132812", "39.948944091796875"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Pizza Place",
+				"Description": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "no_too_small",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.96197981078159",
+				"venue_lng": "-75.1593976167092",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1593976167092", "39.96197981078159"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Medical Center",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.92912247415305",
+				"venue_lng": "-75.15369415283203",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15369415283203", "39.92912247415305"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Jewelry Store",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.94897343222505",
+				"venue_lng": "-75.16011584692788",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011584692788", "39.94897343222505"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Pizza Place",
+				"Description": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.95638639529968",
+				"venue_lng": "-75.17461001873016",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17461001873016", "39.95638639529968"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Jewelry Store",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.94897343222505",
+				"venue_lng": "-75.16011584692788",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011584692788", "39.94897343222505"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Coffee Shop",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.953451",
+				"venue_lng": "-75.144853",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.144853", "39.953451"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Hotel",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95297203175935",
+				"venue_lng": "-75.16209381318578",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16209381318578", "39.95297203175935"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "American Restaurant",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.953045",
+				"venue_lng": "-75.16031",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16031", "39.953045"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Italian Restaurant",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95288879241586",
+				"venue_lng": "-75.16011014670096",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011014670096", "39.95288879241586"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Deli / Bodega",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.97760073686402",
+				"venue_lng": "-75.2669927588947",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.2669927588947", "39.97760073686402"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Clothing Store",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.978400163515275",
+				"venue_lng": "-75.27153265952255",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.27153265952255", "39.978400163515275"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Residential Building (Apartment / Condo)",
+				"Description": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "yes_at_rear",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.954881081105746",
+				"venue_lng": "-75.19979010852542",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19979010852542", "39.954881081105746"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "College Arts Building",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "yes_at_rear",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.95215937803382",
+				"venue_lng": "-75.19272345670835",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19272345670835", "39.95215937803382"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "College Library",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.949814",
+				"venue_lng": "-75.195465",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.195465", "39.949814"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "College Academic Building",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.94920323861727",
+				"venue_lng": "-75.19615424208608",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19615424208608", "39.94920323861727"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Gastropub",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "no_too_small",
+				"Staff reponsive": "yes",
+				"Noise level": "loud",
+				"venue_lat": "39.94861380531371",
+				"venue_lng": "-75.1441030949915",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1441030949915", "39.94861380531371"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Drugstore / Pharmacy",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.94749770729919",
+				"venue_lng": "-75.22927283023719",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22927283023719", "39.94749770729919"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Donut Shop",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.94166946411133",
+				"venue_lng": "-75.23502349853516",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.23502349853516", "39.94166946411133"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Grocery Store",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.94819089608984",
+				"venue_lng": "-75.22062916994227",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22062916994227", "39.94819089608984"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Art Gallery",
+				"Description": "no",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95511262482691",
+				"venue_lng": "-75.22598521905613",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22598521905613", "39.95511262482691"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Park",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "loud",
+				"venue_lat": "39.94833395138111",
+				"venue_lng": "-75.22276591375791",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22276591375791", "39.94833395138111"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Drugstore / Pharmacy",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.94749770729919",
+				"venue_lng": "-75.22927283023719",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22927283023719", "39.94749770729919"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Seafood Restaurant",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.956872360063294",
+				"venue_lng": "-75.22570032746785",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22570032746785", "39.956872360063294"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Breakfast Spot",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "loud",
+				"venue_lat": "39.94782951617256",
+				"venue_lng": "-75.14995771473353",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14995771473353", "39.94782951617256"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Hotel",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95741850106517",
+				"venue_lng": "-75.16686916351318",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16686916351318", "39.95741850106517"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Residential Building (Apartment / Condo)",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.94949843809734",
+				"venue_lng": "-75.15581846237183",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15581846237183", "39.94949843809734"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Doctor",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.950324069352476",
+				"venue_lng": "-75.15528768069558",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15528768069558", "39.950324069352476"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Hospital",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.948064304601445",
+				"venue_lng": "-75.1552249762631",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1552249762631", "39.948064304601445"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Drugstore / Pharmacy",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.950138",
+				"venue_lng": "-75.158646",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.158646", "39.950138"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "limited_kinda_small",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.95389858630569",
+				"venue_lng": "-75.16839265823364",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16839265823364", "39.95389858630569"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.949335022888974",
+				"venue_lng": "-75.17348800986905",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "loud",
+				"venue_lat": "40.013150711190875",
+				"venue_lng": "-75.3001987342591",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.3001987342591", "40.013150711190875"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Diner",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "40.00891285",
+				"venue_lng": "-75.290389",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.290389", "40.00891285"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Office",
+				"Description": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "could_not_assess",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "no",
+				"Noise level": "cound_not_assess",
+				"venue_lat": "39.99740779366567",
+				"venue_lng": "-75.23499727249146",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.23499727249146", "39.99740779366567"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "quiet",
+				"venue_lat": "39.949335022888974",
+				"venue_lng": "-75.17348800986905",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.949335022888974",
+				"venue_lng": "-75.17348800986905",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "American Restaurant",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "could_not_assess",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "no",
+				"Noise level": "moderate",
+				"venue_lat": "40.032209302691896",
+				"venue_lng": "-75.05011451458132",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05011451458132", "40.032209302691896"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Supermarket",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "loud",
+				"venue_lat": "40.03174308874112",
+				"venue_lng": "-75.05134090913803",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05134090913803", "40.03174308874112"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Supermarket",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "loud",
+				"venue_lat": "40.03174308874112",
+				"venue_lng": "-75.05134090913803",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05134090913803", "40.03174308874112"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "New American Restaurant",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "cound_not_assess",
+				"Staff reponsive": "limited",
+				"Noise level": "loud",
+				"venue_lat": "39.95177873715417",
+				"venue_lng": "-75.17044186592102",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17044186592102", "39.95177873715417"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Coffee Shop",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.951057027640815",
+				"venue_lng": "-75.15207946300507",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15207946300507", "39.951057027640815"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Coffee Shop",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.952976545573826",
+				"venue_lng": "-75.1920680655571",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1920680655571", "39.952976545573826"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Drugstore / Pharmacy",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95307203800103",
+				"venue_lng": "-75.19283831119537",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19283831119537", "39.95307203800103"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "College Library",
+				"Description": "no",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "yes_at_side",
+				"Separate entrance well marked": "yes_clear_visible_signs",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.95268960182334",
+				"venue_lng": "-75.19357323646545",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19357323646545", "39.95268960182334"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Office",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.95572814354902",
+				"venue_lng": "-75.17301493061606",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17301493061606", "39.95572814354902"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Thrift / Vintage Store",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.95177601084898",
+				"venue_lng": "-75.16931574366268",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16931574366268", "39.95177601084898"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "College Administrative Building",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.951554617351256",
+				"venue_lng": "-75.19376635551453",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19376635551453", "39.951554617351256"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Boutique",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.952908562700394",
+				"venue_lng": "-75.14511213455442",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14511213455442", "39.952908562700394"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "German Restaurant",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.94222958583959",
+				"venue_lng": "-75.15468913736613",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15468913736613", "39.94222958583959"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Coffee Shop",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "yes_pathways_wide_and_clear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.94719800600157",
+				"venue_lng": "-75.1625726254828",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1625726254828", "39.94719800600157"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Jewelry Store",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "39.950012",
+				"venue_lng": "-75.161923",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.161923", "39.950012"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Clothing Store",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_some_narrow_pathways",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.95155379356256",
+				"venue_lng": "-75.16899654933091",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16899654933091", "39.95155379356256"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "American Restaurant",
+				"Description": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.941972294943234",
+				"venue_lng": "-75.15236377716064",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15236377716064", "39.941972294943234"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Sandwich Place",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "limited",
+				"Noise level": "moderate",
+				"venue_lat": "39.951320243192335",
+				"venue_lng": "-75.15277948390413",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15277948390413", "39.951320243192335"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Bakery",
+				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative accessible ent": "NA_alt_not_needed",
+				"Separate entrance well marked": "NA_main_entrance_accessible",
+				"Easy navigation": "no_all_paths_narrow",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Staff reponsive": "yes",
+				"Noise level": "quiet",
+				"venue_lat": "40.02930333408281",
+				"venue_lng": "-75.05641751212177",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05641751212177", "40.02930333408281"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Title": "Café",
+				"Description": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative accessible ent": "no_accessible_entrance",
+				"Separate entrance well marked": "no_signs_at_all",
+				"Easy navigation": "limited_not_all_areas_accessible",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Staff reponsive": "yes",
+				"Noise level": "moderate",
+				"venue_lat": "39.9474151",
+				"venue_lng": "-75.1682294",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1682294", "39.9474151"]
+			}
+		}
+	]
+}
