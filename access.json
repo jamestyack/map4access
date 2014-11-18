@@ -1,1222 +1,1222 @@
-	{
-		"type": "FeatureCollection",
-		"features": [
-			{
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "alt_not_needed",
-					"Restrooms accessible": "no_too_small",
-					"Noise level": "quiet",
-					"venue_lat": "39.950804",
-					"venue_lng": "-75.14566663",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14566663", "39.950804"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.96445114",
-					"venue_lng": "-75.1615124",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.1615124", "39.96445114"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "no_too_small",
-					"Noise level": "quiet",
-					"venue_lat": "39.92952686",
-					"venue_lng": "-75.16377535",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16377535", "39.92952686"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "yes_at_rear",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.9509249",
-					"venue_lng": "-75.1529505",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.1529505", "39.9509249"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.97771409",
-					"venue_lng": "-75.15844567",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15844567", "39.97771409"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "limited_kinda_small",
-					"Noise level": "moderate",
-					"venue_lat": "39.94305229",
-					"venue_lng": "-75.2325034",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.2325034", "39.94305229"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.953786",
-					"venue_lng": "-75.173571",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.173571", "39.953786"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.951954",
-					"venue_lng": "-75.171788",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.171788", "39.951954"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_door",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "cound_not_assess",
-					"venue_lat": "39.95603621",
-					"venue_lng": "-75.175742",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.175742", "39.95603621"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.9559",
-					"venue_lng": "-75.176298",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.176298", "39.9559"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "moderate",
-					"venue_lat": "39.9543476",
-					"venue_lng": "-75.17610987",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17610987", "39.9543476"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_kinda_small",
-					"Noise level": "quiet",
-					"venue_lat": "39.95068236",
-					"venue_lng": "-75.14474728",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14474728", "39.95068236"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.950136",
-					"venue_lng": "-75.144425",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.144425", "39.950136"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.94069523",
-					"venue_lng": "-75.16596417",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16596417", "39.94069523"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "40.004817",
-					"venue_lng": "-75.220173",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.220173", "40.004817"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "40.01187902",
-					"venue_lng": "-75.06695523",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.06695523", "40.01187902"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "40.01187902",
-					"venue_lng": "-75.06695523",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.06695523", "40.01187902"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "quiet",
-					"venue_lat": "39.95009148",
-					"venue_lng": "-75.14462187",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14462187", "39.95009148"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_door",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "40.08135509",
-					"venue_lng": "-75.34908772",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.34908772", "40.08135509"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.94894409",
-					"venue_lng": "-75.14602661",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14602661", "39.94894409"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "no_too_small",
-					"Noise level": "moderate",
-					"venue_lat": "39.96197981",
-					"venue_lng": "-75.15939762",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15939762", "39.96197981"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "moderate",
-					"venue_lat": "39.92912247",
-					"venue_lng": "-75.15369415",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15369415", "39.92912247"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.94897343",
-					"venue_lng": "-75.16011585",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16011585", "39.94897343"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "moderate",
-					"venue_lat": "39.9563864",
-					"venue_lng": "-75.17461002",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17461002", "39.9563864"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.94897343",
-					"venue_lng": "-75.16011585",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16011585", "39.94897343"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.953451",
-					"venue_lng": "-75.144853",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.144853", "39.953451"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95297203",
-					"venue_lng": "-75.16209381",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16209381", "39.95297203"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.953045",
-					"venue_lng": "-75.16031",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16031", "39.953045"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95288879",
-					"venue_lng": "-75.16011015",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16011015", "39.95288879"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.97760074",
-					"venue_lng": "-75.26699276",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.26699276", "39.97760074"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.97840016",
-					"venue_lng": "-75.27153266",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.27153266", "39.97840016"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "yes_at_rear",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95488108",
-					"venue_lng": "-75.19979011",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19979011", "39.95488108"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "yes_at_rear",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.95215938",
-					"venue_lng": "-75.19272346",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19272346", "39.95215938"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.949814",
-					"venue_lng": "-75.195465",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.195465", "39.949814"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.94920324",
-					"venue_lng": "-75.19615424",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19615424", "39.94920324"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "no_too_small",
-					"Noise level": "loud",
-					"venue_lat": "39.94861381",
-					"venue_lng": "-75.14410309",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14410309", "39.94861381"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.94749771",
-					"venue_lng": "-75.22927283",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22927283", "39.94749771"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.94166946",
-					"venue_lng": "-75.2350235",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.2350235", "39.94166946"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.9481909",
-					"venue_lng": "-75.22062917",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22062917", "39.9481909"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95511262",
-					"venue_lng": "-75.22598522",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22598522", "39.95511262"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "loud",
-					"venue_lat": "39.94833395",
-					"venue_lng": "-75.22276591",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22276591", "39.94833395"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "quiet",
-					"venue_lat": "39.94749771",
-					"venue_lng": "-75.22927283",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22927283", "39.94749771"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.95687236",
-					"venue_lng": "-75.22570033",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.22570033", "39.95687236"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "loud",
-					"venue_lat": "39.94782952",
-					"venue_lng": "-75.14995771",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14995771", "39.94782952"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.9574185",
-					"venue_lng": "-75.16686916",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16686916", "39.9574185"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.94949844",
-					"venue_lng": "-75.15581846",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15581846", "39.94949844"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.95032407",
-					"venue_lng": "-75.15528768",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15528768", "39.95032407"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.9480643",
-					"venue_lng": "-75.15522498",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15522498", "39.9480643"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.950138",
-					"venue_lng": "-75.158646",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.158646", "39.950138"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "limited_kinda_small",
-					"Noise level": "quiet",
-					"venue_lat": "39.95389859",
-					"venue_lng": "-75.16839266",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16839266", "39.95389859"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.94933502",
-					"venue_lng": "-75.17348801",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17348801", "39.94933502"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "loud",
-					"venue_lat": "40.01315071",
-					"venue_lng": "-75.30019873",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.30019873", "40.01315071"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "40.00891285",
-					"venue_lng": "-75.290389",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.290389", "40.00891285"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "cound_not_assess",
-					"venue_lat": "39.99740779",
-					"venue_lng": "-75.23499727",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.23499727", "39.99740779"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.94933502",
-					"venue_lng": "-75.17348801",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17348801", "39.94933502"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.94933502",
-					"venue_lng": "-75.17348801",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17348801", "39.94933502"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "no_narrow_andor_too_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "moderate",
-					"venue_lat": "40.0322093",
-					"venue_lng": "-75.05011451",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.05011451", "40.0322093"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "loud",
-					"venue_lat": "40.03174309",
-					"venue_lng": "-75.05134091",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.05134091", "40.03174309"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "loud",
-					"venue_lat": "40.03174309",
-					"venue_lng": "-75.05134091",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.05134091", "40.03174309"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "cound_not_assess",
-					"Noise level": "loud",
-					"venue_lat": "39.95177874",
-					"venue_lng": "-75.17044187",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17044187", "39.95177874"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.95105703",
-					"venue_lng": "-75.15207946",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15207946", "39.95105703"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "limited_no_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95297655",
-					"venue_lng": "-75.19206807",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19206807", "39.95297655"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.95307204",
-					"venue_lng": "-75.19283831",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19283831", "39.95307204"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "no",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "yes_at_side",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.9526896",
-					"venue_lng": "-75.19357324",
-					"marker-color": "#d73027"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19357324", "39.9526896"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95572814",
-					"venue_lng": "-75.17301493",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.17301493", "39.95572814"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "moderate",
-					"venue_lat": "39.95177601",
-					"venue_lng": "-75.16931574",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16931574", "39.95177601"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.95155462",
-					"venue_lng": "-75.19376636",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.19376636", "39.95155462"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_kinda_heavy",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.95290856",
-					"venue_lng": "-75.14511213",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.14511213", "39.95290856"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.94222959",
-					"venue_lng": "-75.15468914",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15468914", "39.94222959"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "quiet",
-					"venue_lat": "39.94719801",
-					"venue_lng": "-75.16257263",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16257263", "39.94719801"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "39.950012",
-					"venue_lng": "-75.161923",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.161923", "39.950012"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95155379",
-					"venue_lng": "-75.16899655",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.16899655", "39.95155379"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "yes_wide_with_good_ramp",
-					"Main door": "yes_power_assist_door",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.94197229",
-					"venue_lng": "-75.15236378",
-					"marker-color": "#1a9850"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15236378", "39.94197229"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.95132024",
-					"venue_lng": "-75.15277948",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.15277948", "39.95132024"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_tight_door_andor_subpar_ramp",
-					"Main door": "limited_kinda_narrow",
-					"Alternative ent": "NA_alt_not_needed",
-					"Restrooms accessible": "NA_no_rest_ava",
-					"Noise level": "quiet",
-					"venue_lat": "40.02930333",
-					"venue_lng": "-75.05641751",
-					"marker-color": "#91cf60"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.05641751", "40.02930333"]
-				}
-			}, {
-				"type": "Feature",
-				"properties": {
-					"Main entrance": "limited_one_step_no_ramp",
-					"Main door": "limited_wide_and_light",
-					"Alternative ent": "no_accessible_entrance",
-					"Restrooms accessible": "yes_spacious_w_grab_bars",
-					"Noise level": "moderate",
-					"venue_lat": "39.9474151",
-					"venue_lng": "-75.1682294",
-					"marker-color": "#fc8d59"
-				},
-				"geometry": {
-					"type": "Point",
-					"coordinates": ["-75.1682294", "39.9474151"]
-				}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "alt_not_needed",
+				"Restrooms accessible": "no_too_small",
+				"Noise level": "quiet",
+				"venue_lat": "39.950804",
+				"venue_lng": "-75.14566663",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14566663", "39.950804"]
 			}
-		]
-	}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.96445114",
+				"venue_lng": "-75.1615124",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1615124", "39.96445114"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "no_too_small",
+				"Noise level": "quiet",
+				"venue_lat": "39.92952686",
+				"venue_lng": "-75.16377535",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16377535", "39.92952686"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "yes_at_rear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.9509249",
+				"venue_lng": "-75.1529505",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1529505", "39.9509249"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.97771409",
+				"venue_lng": "-75.15844567",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15844567", "39.97771409"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "limited_kinda_small",
+				"Noise level": "moderate",
+				"venue_lat": "39.94305229",
+				"venue_lng": "-75.2325034",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.2325034", "39.94305229"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.953786",
+				"venue_lng": "-75.173571",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.173571", "39.953786"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.951954",
+				"venue_lng": "-75.171788",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.171788", "39.951954"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_door",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "cound_not_assess",
+				"venue_lat": "39.95603621",
+				"venue_lng": "-75.175742",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.175742", "39.95603621"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.9559",
+				"venue_lng": "-75.176298",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.176298", "39.9559"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "moderate",
+				"venue_lat": "39.9543476",
+				"venue_lng": "-75.17610987",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17610987", "39.9543476"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_kinda_small",
+				"Noise level": "quiet",
+				"venue_lat": "39.95068236",
+				"venue_lng": "-75.14474728",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14474728", "39.95068236"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.950136",
+				"venue_lng": "-75.144425",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.144425", "39.950136"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.94069523",
+				"venue_lng": "-75.16596417",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16596417", "39.94069523"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "40.004817",
+				"venue_lng": "-75.220173",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.220173", "40.004817"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "40.01187902",
+				"venue_lng": "-75.06695523",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.06695523", "40.01187902"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "40.01187902",
+				"venue_lng": "-75.06695523",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.06695523", "40.01187902"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "quiet",
+				"venue_lat": "39.95009148",
+				"venue_lng": "-75.14462187",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14462187", "39.95009148"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_door",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "40.08135509",
+				"venue_lng": "-75.34908772",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.34908772", "40.08135509"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.94894409",
+				"venue_lng": "-75.14602661",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14602661", "39.94894409"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "no_too_small",
+				"Noise level": "moderate",
+				"venue_lat": "39.96197981",
+				"venue_lng": "-75.15939762",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15939762", "39.96197981"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "moderate",
+				"venue_lat": "39.92912247",
+				"venue_lng": "-75.15369415",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15369415", "39.92912247"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.94897343",
+				"venue_lng": "-75.16011585",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011585", "39.94897343"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "moderate",
+				"venue_lat": "39.9563864",
+				"venue_lng": "-75.17461002",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17461002", "39.9563864"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.94897343",
+				"venue_lng": "-75.16011585",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011585", "39.94897343"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.953451",
+				"venue_lng": "-75.144853",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.144853", "39.953451"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95297203",
+				"venue_lng": "-75.16209381",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16209381", "39.95297203"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.953045",
+				"venue_lng": "-75.16031",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16031", "39.953045"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95288879",
+				"venue_lng": "-75.16011015",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16011015", "39.95288879"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.97760074",
+				"venue_lng": "-75.26699276",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.26699276", "39.97760074"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.97840016",
+				"venue_lng": "-75.27153266",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.27153266", "39.97840016"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "yes_at_rear",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95488108",
+				"venue_lng": "-75.19979011",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19979011", "39.95488108"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "yes_at_rear",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.95215938",
+				"venue_lng": "-75.19272346",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19272346", "39.95215938"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.949814",
+				"venue_lng": "-75.195465",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.195465", "39.949814"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.94920324",
+				"venue_lng": "-75.19615424",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19615424", "39.94920324"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "no_too_small",
+				"Noise level": "loud",
+				"venue_lat": "39.94861381",
+				"venue_lng": "-75.14410309",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14410309", "39.94861381"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.94749771",
+				"venue_lng": "-75.22927283",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22927283", "39.94749771"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.94166946",
+				"venue_lng": "-75.2350235",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.2350235", "39.94166946"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.9481909",
+				"venue_lng": "-75.22062917",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22062917", "39.9481909"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95511262",
+				"venue_lng": "-75.22598522",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22598522", "39.95511262"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "loud",
+				"venue_lat": "39.94833395",
+				"venue_lng": "-75.22276591",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22276591", "39.94833395"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "quiet",
+				"venue_lat": "39.94749771",
+				"venue_lng": "-75.22927283",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22927283", "39.94749771"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.95687236",
+				"venue_lng": "-75.22570033",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.22570033", "39.95687236"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "loud",
+				"venue_lat": "39.94782952",
+				"venue_lng": "-75.14995771",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14995771", "39.94782952"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.9574185",
+				"venue_lng": "-75.16686916",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16686916", "39.9574185"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.94949844",
+				"venue_lng": "-75.15581846",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15581846", "39.94949844"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.95032407",
+				"venue_lng": "-75.15528768",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15528768", "39.95032407"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.9480643",
+				"venue_lng": "-75.15522498",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15522498", "39.9480643"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.950138",
+				"venue_lng": "-75.158646",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.158646", "39.950138"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "limited_kinda_small",
+				"Noise level": "quiet",
+				"venue_lat": "39.95389859",
+				"venue_lng": "-75.16839266",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16839266", "39.95389859"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348801", "39.94933502"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "loud",
+				"venue_lat": "40.01315071",
+				"venue_lng": "-75.30019873",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.30019873", "40.01315071"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "40.00891285",
+				"venue_lng": "-75.290389",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.290389", "40.00891285"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "cound_not_assess",
+				"venue_lat": "39.99740779",
+				"venue_lng": "-75.23499727",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.23499727", "39.99740779"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348801", "39.94933502"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17348801", "39.94933502"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "no_narrow_andor_too_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "moderate",
+				"venue_lat": "40.0322093",
+				"venue_lng": "-75.05011451",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05011451", "40.0322093"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "loud",
+				"venue_lat": "40.03174309",
+				"venue_lng": "-75.05134091",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05134091", "40.03174309"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "loud",
+				"venue_lat": "40.03174309",
+				"venue_lng": "-75.05134091",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05134091", "40.03174309"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "cound_not_assess",
+				"Noise level": "loud",
+				"venue_lat": "39.95177874",
+				"venue_lng": "-75.17044187",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17044187", "39.95177874"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.95105703",
+				"venue_lng": "-75.15207946",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15207946", "39.95105703"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "limited_no_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95297655",
+				"venue_lng": "-75.19206807",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19206807", "39.95297655"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.95307204",
+				"venue_lng": "-75.19283831",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19283831", "39.95307204"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "no",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "yes_at_side",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.9526896",
+				"venue_lng": "-75.19357324",
+				"marker-color": "#d73027"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19357324", "39.9526896"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95572814",
+				"venue_lng": "-75.17301493",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.17301493", "39.95572814"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "moderate",
+				"venue_lat": "39.95177601",
+				"venue_lng": "-75.16931574",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16931574", "39.95177601"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.95155462",
+				"venue_lng": "-75.19376636",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.19376636", "39.95155462"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_kinda_heavy",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.95290856",
+				"venue_lng": "-75.14511213",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.14511213", "39.95290856"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.94222959",
+				"venue_lng": "-75.15468914",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15468914", "39.94222959"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "quiet",
+				"venue_lat": "39.94719801",
+				"venue_lng": "-75.16257263",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16257263", "39.94719801"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "39.950012",
+				"venue_lng": "-75.161923",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.161923", "39.950012"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95155379",
+				"venue_lng": "-75.16899655",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.16899655", "39.95155379"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "yes_wide_with_good_ramp",
+				"Main door": "yes_power_assist_door",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.94197229",
+				"venue_lng": "-75.15236378",
+				"marker-color": "#1a9850"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15236378", "39.94197229"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.95132024",
+				"venue_lng": "-75.15277948",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.15277948", "39.95132024"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_tight_door_andor_subpar_ramp",
+				"Main door": "limited_kinda_narrow",
+				"Alternative ent": "NA_alt_not_needed",
+				"Restrooms accessible": "NA_no_rest_ava",
+				"Noise level": "quiet",
+				"venue_lat": "40.02930333",
+				"venue_lng": "-75.05641751",
+				"marker-color": "#91cf60"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.05641751", "40.02930333"]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"Main entrance access.": "limited_one_step_no_ramp",
+				"Main door": "limited_wide_and_light",
+				"Alternative ent": "no_accessible_entrance",
+				"Restrooms accessible": "yes_spacious_w_grab_bars",
+				"Noise level": "moderate",
+				"venue_lat": "39.9474151",
+				"venue_lng": "-75.1682294",
+				"marker-color": "#fc8d59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": ["-75.1682294", "39.9474151"]
+			}
+		}
+	]
+}
