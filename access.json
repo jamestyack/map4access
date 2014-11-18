@@ -14,12 +14,12 @@
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
 				"venue_lat": "39.950804",
-				"venue_lng": "-75.14566663000001",
+				"venue_lng": "-75.14566663",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14566663000001", "39.950804"]
+				"coordinates": ["-75.14566663", "39.950804"]
 			}
 		}, {
 			"type": "Feature",
@@ -33,13 +33,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.96445113587629",
-				"venue_lng": "-75.16151239629244",
+				"venue_lat": "39.96445114",
+				"venue_lng": "-75.1615124",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16151239629244", "39.96445113587629"]
+				"coordinates": ["-75.1615124", "39.96445114"]
 			}
 		}, {
 			"type": "Feature",
@@ -53,13 +53,13 @@
 				"Restrooms accessible": "no_too_small",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.92952685682914",
-				"venue_lng": "-75.16377534993646",
+				"venue_lat": "39.92952686",
+				"venue_lng": "-75.16377535",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16377534993646", "39.92952685682914"]
+				"coordinates": ["-75.16377535", "39.92952686"]
 			}
 		}, {
 			"type": "Feature",
@@ -73,13 +73,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.95092489994615",
-				"venue_lng": "-75.15295049859171",
+				"venue_lat": "39.9509249",
+				"venue_lng": "-75.1529505",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15295049859171", "39.95092489994615"]
+				"coordinates": ["-75.1529505", "39.9509249"]
 			}
 		}, {
 			"type": "Feature",
@@ -93,13 +93,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.977714088573734",
-				"venue_lng": "-75.15844567160119",
+				"venue_lat": "39.97771409",
+				"venue_lng": "-75.15844567",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15844567160119", "39.977714088573734"]
+				"coordinates": ["-75.15844567", "39.97771409"]
 			}
 		}, {
 			"type": "Feature",
@@ -113,13 +113,13 @@
 				"Restrooms accessible": "limited_kinda_small",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.9430522921527",
-				"venue_lng": "-75.23250339605372",
+				"venue_lat": "39.94305229",
+				"venue_lng": "-75.2325034",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.23250339605372", "39.9430522921527"]
+				"coordinates": ["-75.2325034", "39.94305229"]
 			}
 		}, {
 			"type": "Feature",
@@ -173,13 +173,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "no",
 				"Noise level": "cound_not_assess",
-				"venue_lat": "39.95603621006012",
+				"venue_lat": "39.95603621",
 				"venue_lng": "-75.175742",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.175742", "39.95603621006012"]
+				"coordinates": ["-75.175742", "39.95603621"]
 			}
 		}, {
 			"type": "Feature",
@@ -213,13 +213,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95434760443989",
-				"venue_lng": "-75.17610986901946",
+				"venue_lat": "39.9543476",
+				"venue_lng": "-75.17610987",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17610986901946", "39.95434760443989"]
+				"coordinates": ["-75.17610987", "39.9543476"]
 			}
 		}, {
 			"type": "Feature",
@@ -233,13 +233,13 @@
 				"Restrooms accessible": "limited_kinda_small",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.950682355393766",
-				"venue_lng": "-75.14474728483674",
+				"venue_lat": "39.95068236",
+				"venue_lng": "-75.14474728",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14474728483674", "39.950682355393766"]
+				"coordinates": ["-75.14474728", "39.95068236"]
 			}
 		}, {
 			"type": "Feature",
@@ -273,13 +273,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.940695234028766",
-				"venue_lng": "-75.16596417081365",
+				"venue_lat": "39.94069523",
+				"venue_lng": "-75.16596417",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16596417081365", "39.940695234028766"]
+				"coordinates": ["-75.16596417", "39.94069523"]
 			}
 		}, {
 			"type": "Feature",
@@ -313,13 +313,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "40.01187902018787",
-				"venue_lng": "-75.06695522632855",
+				"venue_lat": "40.01187902",
+				"venue_lng": "-75.06695523",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.06695522632855", "40.01187902018787"]
+				"coordinates": ["-75.06695523", "40.01187902"]
 			}
 		}, {
 			"type": "Feature",
@@ -333,13 +333,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "40.01187902018787",
-				"venue_lng": "-75.06695522632855",
+				"venue_lat": "40.01187902",
+				"venue_lng": "-75.06695523",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.06695522632855", "40.01187902018787"]
+				"coordinates": ["-75.06695523", "40.01187902"]
 			}
 		}, {
 			"type": "Feature",
@@ -353,33 +353,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.95009148275576",
-				"venue_lng": "-75.14462186755118",
+				"venue_lat": "39.95009148",
+				"venue_lng": "-75.14462187",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14462186755118", "39.95009148275576"]
-			}
-		}, {
-			"type": "Feature",
-			"properties": {
-				"Title": "Residential Building (Apartment / Condo)",
-				"Description": "yes_wide_with_good_ramp",
-				"Main door": "limited_kinda_heavy",
-				"Alternative accessible ent": "NA_alt_not_needed",
-				"Separate entrance well marked": "NA_main_entrance_accessible",
-				"Easy navigation": "yes_pathways_wide_and_clear",
-				"Restrooms accessible": "yes_spacious_w_grab_bars",
-				"Staff reponsive": "yes",
-				"Noise level": "quiet",
-				"venue_lat": "39.13687923279997",
-				"venue_lng": "-76.8540754429989",
-				"marker-color": "#1a9850"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": ["-76.8540754429989", "39.13687923279997"]
+				"coordinates": ["-75.14462187", "39.95009148"]
 			}
 		}, {
 			"type": "Feature",
@@ -393,13 +373,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "no",
 				"Noise level": "quiet",
-				"venue_lat": "40.08135509251609",
-				"venue_lng": "-75.34908771514893",
+				"venue_lat": "40.08135509",
+				"venue_lng": "-75.34908772",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.34908771514893", "40.08135509251609"]
+				"coordinates": ["-75.34908772", "40.08135509"]
 			}
 		}, {
 			"type": "Feature",
@@ -413,13 +393,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.948944091796875",
-				"venue_lng": "-75.14602661132812",
+				"venue_lat": "39.94894409",
+				"venue_lng": "-75.14602661",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14602661132812", "39.948944091796875"]
+				"coordinates": ["-75.14602661", "39.94894409"]
 			}
 		}, {
 			"type": "Feature",
@@ -433,13 +413,13 @@
 				"Restrooms accessible": "no_too_small",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.96197981078159",
-				"venue_lng": "-75.1593976167092",
+				"venue_lat": "39.96197981",
+				"venue_lng": "-75.15939762",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.1593976167092", "39.96197981078159"]
+				"coordinates": ["-75.15939762", "39.96197981"]
 			}
 		}, {
 			"type": "Feature",
@@ -453,13 +433,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.92912247415305",
-				"venue_lng": "-75.15369415283203",
+				"venue_lat": "39.92912247",
+				"venue_lng": "-75.15369415",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15369415283203", "39.92912247415305"]
+				"coordinates": ["-75.15369415", "39.92912247"]
 			}
 		}, {
 			"type": "Feature",
@@ -473,13 +453,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.94897343222505",
-				"venue_lng": "-75.16011584692788",
+				"venue_lat": "39.94897343",
+				"venue_lng": "-75.16011585",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16011584692788", "39.94897343222505"]
+				"coordinates": ["-75.16011585", "39.94897343"]
 			}
 		}, {
 			"type": "Feature",
@@ -493,13 +473,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.95638639529968",
-				"venue_lng": "-75.17461001873016",
+				"venue_lat": "39.9563864",
+				"venue_lng": "-75.17461002",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17461001873016", "39.95638639529968"]
+				"coordinates": ["-75.17461002", "39.9563864"]
 			}
 		}, {
 			"type": "Feature",
@@ -513,13 +493,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.94897343222505",
-				"venue_lng": "-75.16011584692788",
+				"venue_lat": "39.94897343",
+				"venue_lng": "-75.16011585",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16011584692788", "39.94897343222505"]
+				"coordinates": ["-75.16011585", "39.94897343"]
 			}
 		}, {
 			"type": "Feature",
@@ -553,13 +533,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95297203175935",
-				"venue_lng": "-75.16209381318578",
+				"venue_lat": "39.95297203",
+				"venue_lng": "-75.16209381",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16209381318578", "39.95297203175935"]
+				"coordinates": ["-75.16209381", "39.95297203"]
 			}
 		}, {
 			"type": "Feature",
@@ -593,13 +573,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95288879241586",
-				"venue_lng": "-75.16011014670096",
+				"venue_lat": "39.95288879",
+				"venue_lng": "-75.16011015",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16011014670096", "39.95288879241586"]
+				"coordinates": ["-75.16011015", "39.95288879"]
 			}
 		}, {
 			"type": "Feature",
@@ -613,13 +593,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.97760073686402",
-				"venue_lng": "-75.2669927588947",
+				"venue_lat": "39.97760074",
+				"venue_lng": "-75.26699276",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.2669927588947", "39.97760073686402"]
+				"coordinates": ["-75.26699276", "39.97760074"]
 			}
 		}, {
 			"type": "Feature",
@@ -633,13 +613,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.978400163515275",
-				"venue_lng": "-75.27153265952255",
+				"venue_lat": "39.97840016",
+				"venue_lng": "-75.27153266",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.27153265952255", "39.978400163515275"]
+				"coordinates": ["-75.27153266", "39.97840016"]
 			}
 		}, {
 			"type": "Feature",
@@ -653,13 +633,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.954881081105746",
-				"venue_lng": "-75.19979010852542",
+				"venue_lat": "39.95488108",
+				"venue_lng": "-75.19979011",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19979010852542", "39.954881081105746"]
+				"coordinates": ["-75.19979011", "39.95488108"]
 			}
 		}, {
 			"type": "Feature",
@@ -673,13 +653,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.95215937803382",
-				"venue_lng": "-75.19272345670835",
+				"venue_lat": "39.95215938",
+				"venue_lng": "-75.19272346",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19272345670835", "39.95215937803382"]
+				"coordinates": ["-75.19272346", "39.95215938"]
 			}
 		}, {
 			"type": "Feature",
@@ -713,13 +693,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.94920323861727",
-				"venue_lng": "-75.19615424208608",
+				"venue_lat": "39.94920324",
+				"venue_lng": "-75.19615424",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19615424208608", "39.94920323861727"]
+				"coordinates": ["-75.19615424", "39.94920324"]
 			}
 		}, {
 			"type": "Feature",
@@ -733,13 +713,13 @@
 				"Restrooms accessible": "no_too_small",
 				"Staff reponsive": "yes",
 				"Noise level": "loud",
-				"venue_lat": "39.94861380531371",
-				"venue_lng": "-75.1441030949915",
+				"venue_lat": "39.94861381",
+				"venue_lng": "-75.14410309",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.1441030949915", "39.94861380531371"]
+				"coordinates": ["-75.14410309", "39.94861381"]
 			}
 		}, {
 			"type": "Feature",
@@ -753,13 +733,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.94749770729919",
-				"venue_lng": "-75.22927283023719",
+				"venue_lat": "39.94749771",
+				"venue_lng": "-75.22927283",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22927283023719", "39.94749770729919"]
+				"coordinates": ["-75.22927283", "39.94749771"]
 			}
 		}, {
 			"type": "Feature",
@@ -773,13 +753,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.94166946411133",
-				"venue_lng": "-75.23502349853516",
+				"venue_lat": "39.94166946",
+				"venue_lng": "-75.2350235",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.23502349853516", "39.94166946411133"]
+				"coordinates": ["-75.2350235", "39.94166946"]
 			}
 		}, {
 			"type": "Feature",
@@ -793,13 +773,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.94819089608984",
-				"venue_lng": "-75.22062916994227",
+				"venue_lat": "39.9481909",
+				"venue_lng": "-75.22062917",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22062916994227", "39.94819089608984"]
+				"coordinates": ["-75.22062917", "39.9481909"]
 			}
 		}, {
 			"type": "Feature",
@@ -813,13 +793,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95511262482691",
-				"venue_lng": "-75.22598521905613",
+				"venue_lat": "39.95511262",
+				"venue_lng": "-75.22598522",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22598521905613", "39.95511262482691"]
+				"coordinates": ["-75.22598522", "39.95511262"]
 			}
 		}, {
 			"type": "Feature",
@@ -833,13 +813,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "loud",
-				"venue_lat": "39.94833395138111",
-				"venue_lng": "-75.22276591375791",
+				"venue_lat": "39.94833395",
+				"venue_lng": "-75.22276591",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22276591375791", "39.94833395138111"]
+				"coordinates": ["-75.22276591", "39.94833395"]
 			}
 		}, {
 			"type": "Feature",
@@ -853,13 +833,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.94749770729919",
-				"venue_lng": "-75.22927283023719",
+				"venue_lat": "39.94749771",
+				"venue_lng": "-75.22927283",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22927283023719", "39.94749770729919"]
+				"coordinates": ["-75.22927283", "39.94749771"]
 			}
 		}, {
 			"type": "Feature",
@@ -873,13 +853,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.956872360063294",
-				"venue_lng": "-75.22570032746785",
+				"venue_lat": "39.95687236",
+				"venue_lng": "-75.22570033",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.22570032746785", "39.956872360063294"]
+				"coordinates": ["-75.22570033", "39.95687236"]
 			}
 		}, {
 			"type": "Feature",
@@ -893,13 +873,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "loud",
-				"venue_lat": "39.94782951617256",
-				"venue_lng": "-75.14995771473353",
+				"venue_lat": "39.94782952",
+				"venue_lng": "-75.14995771",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14995771473353", "39.94782951617256"]
+				"coordinates": ["-75.14995771", "39.94782952"]
 			}
 		}, {
 			"type": "Feature",
@@ -913,13 +893,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95741850106517",
-				"venue_lng": "-75.16686916351318",
+				"venue_lat": "39.9574185",
+				"venue_lng": "-75.16686916",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16686916351318", "39.95741850106517"]
+				"coordinates": ["-75.16686916", "39.9574185"]
 			}
 		}, {
 			"type": "Feature",
@@ -933,13 +913,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.94949843809734",
-				"venue_lng": "-75.15581846237183",
+				"venue_lat": "39.94949844",
+				"venue_lng": "-75.15581846",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15581846237183", "39.94949843809734"]
+				"coordinates": ["-75.15581846", "39.94949844"]
 			}
 		}, {
 			"type": "Feature",
@@ -953,13 +933,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.950324069352476",
-				"venue_lng": "-75.15528768069558",
+				"venue_lat": "39.95032407",
+				"venue_lng": "-75.15528768",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15528768069558", "39.950324069352476"]
+				"coordinates": ["-75.15528768", "39.95032407"]
 			}
 		}, {
 			"type": "Feature",
@@ -973,13 +953,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.948064304601445",
-				"venue_lng": "-75.1552249762631",
+				"venue_lat": "39.9480643",
+				"venue_lng": "-75.15522498",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.1552249762631", "39.948064304601445"]
+				"coordinates": ["-75.15522498", "39.9480643"]
 			}
 		}, {
 			"type": "Feature",
@@ -1013,13 +993,13 @@
 				"Restrooms accessible": "limited_kinda_small",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.95389858630569",
-				"venue_lng": "-75.16839265823364",
+				"venue_lat": "39.95389859",
+				"venue_lng": "-75.16839266",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16839265823364", "39.95389858630569"]
+				"coordinates": ["-75.16839266", "39.95389859"]
 			}
 		}, {
 			"type": "Feature",
@@ -1033,13 +1013,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.949335022888974",
-				"venue_lng": "-75.17348800986905",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+				"coordinates": ["-75.17348801", "39.94933502"]
 			}
 		}, {
 			"type": "Feature",
@@ -1053,13 +1033,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "loud",
-				"venue_lat": "40.013150711190875",
-				"venue_lng": "-75.3001987342591",
+				"venue_lat": "40.01315071",
+				"venue_lng": "-75.30019873",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.3001987342591", "40.013150711190875"]
+				"coordinates": ["-75.30019873", "40.01315071"]
 			}
 		}, {
 			"type": "Feature",
@@ -1093,13 +1073,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "no",
 				"Noise level": "cound_not_assess",
-				"venue_lat": "39.99740779366567",
-				"venue_lng": "-75.23499727249146",
+				"venue_lat": "39.99740779",
+				"venue_lng": "-75.23499727",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.23499727249146", "39.99740779366567"]
+				"coordinates": ["-75.23499727", "39.99740779"]
 			}
 		}, {
 			"type": "Feature",
@@ -1113,13 +1093,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "quiet",
-				"venue_lat": "39.949335022888974",
-				"venue_lng": "-75.17348800986905",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+				"coordinates": ["-75.17348801", "39.94933502"]
 			}
 		}, {
 			"type": "Feature",
@@ -1133,13 +1113,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.949335022888974",
-				"venue_lng": "-75.17348800986905",
+				"venue_lat": "39.94933502",
+				"venue_lng": "-75.17348801",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17348800986905", "39.949335022888974"]
+				"coordinates": ["-75.17348801", "39.94933502"]
 			}
 		}, {
 			"type": "Feature",
@@ -1153,13 +1133,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "no",
 				"Noise level": "moderate",
-				"venue_lat": "40.032209302691896",
-				"venue_lng": "-75.05011451458132",
+				"venue_lat": "40.0322093",
+				"venue_lng": "-75.05011451",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.05011451458132", "40.032209302691896"]
+				"coordinates": ["-75.05011451", "40.0322093"]
 			}
 		}, {
 			"type": "Feature",
@@ -1173,13 +1153,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "loud",
-				"venue_lat": "40.03174308874112",
-				"venue_lng": "-75.05134090913803",
+				"venue_lat": "40.03174309",
+				"venue_lng": "-75.05134091",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.05134090913803", "40.03174308874112"]
+				"coordinates": ["-75.05134091", "40.03174309"]
 			}
 		}, {
 			"type": "Feature",
@@ -1193,13 +1173,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "loud",
-				"venue_lat": "40.03174308874112",
-				"venue_lng": "-75.05134090913803",
+				"venue_lat": "40.03174309",
+				"venue_lng": "-75.05134091",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.05134090913803", "40.03174308874112"]
+				"coordinates": ["-75.05134091", "40.03174309"]
 			}
 		}, {
 			"type": "Feature",
@@ -1213,13 +1193,13 @@
 				"Restrooms accessible": "cound_not_assess",
 				"Staff reponsive": "limited",
 				"Noise level": "loud",
-				"venue_lat": "39.95177873715417",
-				"venue_lng": "-75.17044186592102",
+				"venue_lat": "39.95177874",
+				"venue_lng": "-75.17044187",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17044186592102", "39.95177873715417"]
+				"coordinates": ["-75.17044187", "39.95177874"]
 			}
 		}, {
 			"type": "Feature",
@@ -1233,13 +1213,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.951057027640815",
-				"venue_lng": "-75.15207946300507",
+				"venue_lat": "39.95105703",
+				"venue_lng": "-75.15207946",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15207946300507", "39.951057027640815"]
+				"coordinates": ["-75.15207946", "39.95105703"]
 			}
 		}, {
 			"type": "Feature",
@@ -1253,13 +1233,13 @@
 				"Restrooms accessible": "limited_no_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.952976545573826",
-				"venue_lng": "-75.1920680655571",
+				"venue_lat": "39.95297655",
+				"venue_lng": "-75.19206807",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.1920680655571", "39.952976545573826"]
+				"coordinates": ["-75.19206807", "39.95297655"]
 			}
 		}, {
 			"type": "Feature",
@@ -1273,13 +1253,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95307203800103",
-				"venue_lng": "-75.19283831119537",
+				"venue_lat": "39.95307204",
+				"venue_lng": "-75.19283831",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19283831119537", "39.95307203800103"]
+				"coordinates": ["-75.19283831", "39.95307204"]
 			}
 		}, {
 			"type": "Feature",
@@ -1293,13 +1273,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.95268960182334",
-				"venue_lng": "-75.19357323646545",
+				"venue_lat": "39.9526896",
+				"venue_lng": "-75.19357324",
 				"marker-color": "#d73027"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19357323646545", "39.95268960182334"]
+				"coordinates": ["-75.19357324", "39.9526896"]
 			}
 		}, {
 			"type": "Feature",
@@ -1313,13 +1293,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.95572814354902",
-				"venue_lng": "-75.17301493061606",
+				"venue_lat": "39.95572814",
+				"venue_lng": "-75.17301493",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.17301493061606", "39.95572814354902"]
+				"coordinates": ["-75.17301493", "39.95572814"]
 			}
 		}, {
 			"type": "Feature",
@@ -1333,13 +1313,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.95177601084898",
-				"venue_lng": "-75.16931574366268",
+				"venue_lat": "39.95177601",
+				"venue_lng": "-75.16931574",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16931574366268", "39.95177601084898"]
+				"coordinates": ["-75.16931574", "39.95177601"]
 			}
 		}, {
 			"type": "Feature",
@@ -1353,13 +1333,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.951554617351256",
-				"venue_lng": "-75.19376635551453",
+				"venue_lat": "39.95155462",
+				"venue_lng": "-75.19376636",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.19376635551453", "39.951554617351256"]
+				"coordinates": ["-75.19376636", "39.95155462"]
 			}
 		}, {
 			"type": "Feature",
@@ -1373,13 +1353,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.952908562700394",
-				"venue_lng": "-75.14511213455442",
+				"venue_lat": "39.95290856",
+				"venue_lng": "-75.14511213",
 				"marker-color": "#fc8d59"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.14511213455442", "39.952908562700394"]
+				"coordinates": ["-75.14511213", "39.95290856"]
 			}
 		}, {
 			"type": "Feature",
@@ -1393,13 +1373,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.94222958583959",
-				"venue_lng": "-75.15468913736613",
+				"venue_lat": "39.94222959",
+				"venue_lng": "-75.15468914",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15468913736613", "39.94222958583959"]
+				"coordinates": ["-75.15468914", "39.94222959"]
 			}
 		}, {
 			"type": "Feature",
@@ -1413,13 +1393,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "39.94719800600157",
-				"venue_lng": "-75.1625726254828",
+				"venue_lat": "39.94719801",
+				"venue_lng": "-75.16257263",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.1625726254828", "39.94719800600157"]
+				"coordinates": ["-75.16257263", "39.94719801"]
 			}
 		}, {
 			"type": "Feature",
@@ -1453,13 +1433,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.95155379356256",
-				"venue_lng": "-75.16899654933091",
+				"venue_lat": "39.95155379",
+				"venue_lng": "-75.16899655",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.16899654933091", "39.95155379356256"]
+				"coordinates": ["-75.16899655", "39.95155379"]
 			}
 		}, {
 			"type": "Feature",
@@ -1473,13 +1453,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "yes",
 				"Noise level": "moderate",
-				"venue_lat": "39.941972294943234",
-				"venue_lng": "-75.15236377716064",
+				"venue_lat": "39.94197229",
+				"venue_lng": "-75.15236378",
 				"marker-color": "#1a9850"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15236377716064", "39.941972294943234"]
+				"coordinates": ["-75.15236378", "39.94197229"]
 			}
 		}, {
 			"type": "Feature",
@@ -1493,13 +1473,13 @@
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
 				"Staff reponsive": "limited",
 				"Noise level": "moderate",
-				"venue_lat": "39.951320243192335",
-				"venue_lng": "-75.15277948390413",
+				"venue_lat": "39.95132024",
+				"venue_lng": "-75.15277948",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.15277948390413", "39.951320243192335"]
+				"coordinates": ["-75.15277948", "39.95132024"]
 			}
 		}, {
 			"type": "Feature",
@@ -1513,13 +1493,13 @@
 				"Restrooms accessible": "NA_no_rest_ava",
 				"Staff reponsive": "yes",
 				"Noise level": "quiet",
-				"venue_lat": "40.02930333408281",
-				"venue_lng": "-75.05641751212177",
+				"venue_lat": "40.02930333",
+				"venue_lng": "-75.05641751",
 				"marker-color": "#91cf60"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": ["-75.05641751212177", "40.02930333408281"]
+				"coordinates": ["-75.05641751", "40.02930333"]
 			}
 		}, {
 			"type": "Feature",
