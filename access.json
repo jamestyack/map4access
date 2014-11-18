@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coworking Space",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "alt_not_needed",
 				"Restrooms accessible": "no_too_small",
@@ -22,7 +22,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Gastropub",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -39,7 +39,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Restaurant",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "no_too_small",
@@ -56,7 +56,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Building",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "yes_at_rear",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -73,7 +73,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Multiplex",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -90,7 +90,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Church",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "limited_kinda_small",
@@ -107,7 +107,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Print Shop",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -124,7 +124,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Sushi Restaurant",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -141,7 +141,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Middle Eastern Restaurant",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_door",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -158,7 +158,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Sandwich Place",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -175,7 +175,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Grocery Store",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "cound_not_assess",
@@ -192,7 +192,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coffee Shop",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_kinda_small",
@@ -209,7 +209,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Boutique",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -226,7 +226,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Indian Restaurant",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -243,7 +243,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Bank",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -260,7 +260,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Home (private)",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -277,7 +277,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Home (private)",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -294,7 +294,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Building",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -311,7 +311,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Light Rail",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_door",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -328,7 +328,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Deli / Bodega",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -345,7 +345,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Pizza Place",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "no_too_small",
@@ -362,7 +362,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Medical Center",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "cound_not_assess",
@@ -379,7 +379,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Jewelry Store",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -396,7 +396,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Pizza Place",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -413,7 +413,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Jewelry Store",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -430,7 +430,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coffee Shop",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -447,7 +447,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Hotel",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -464,7 +464,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "American Restaurant",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -481,7 +481,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Italian Restaurant",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -498,7 +498,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Deli / Bodega",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -515,7 +515,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Clothing Store",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -532,7 +532,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Residential Building (Apartment / Condo)",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "yes_at_rear",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -549,7 +549,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "College Arts Building",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "yes_at_rear",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -566,7 +566,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "College Library",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -583,7 +583,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "College Academic Building",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -600,7 +600,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Gastropub",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "no_too_small",
@@ -617,7 +617,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Drugstore / Pharmacy",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -634,7 +634,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Donut Shop",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -651,7 +651,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Grocery Store",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -668,7 +668,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Art Gallery",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -685,7 +685,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Park",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -702,7 +702,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Drugstore / Pharmacy",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "cound_not_assess",
@@ -719,7 +719,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Seafood Restaurant",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -736,7 +736,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Breakfast Spot",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -753,7 +753,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Hotel",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -770,7 +770,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Residential Building (Apartment / Condo)",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -787,7 +787,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Doctor",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -804,7 +804,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Hospital",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -821,7 +821,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Drugstore / Pharmacy",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -838,7 +838,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "limited_kinda_small",
@@ -855,7 +855,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -872,7 +872,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -889,7 +889,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Diner",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -906,7 +906,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Office",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -923,7 +923,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -940,7 +940,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -957,7 +957,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "American Restaurant",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "no_narrow_andor_too_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -974,7 +974,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Supermarket",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -991,7 +991,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Supermarket",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1008,7 +1008,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "New American Restaurant",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "cound_not_assess",
@@ -1025,7 +1025,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coffee Shop",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1042,7 +1042,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coffee Shop",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "limited_no_grab_bars",
@@ -1059,7 +1059,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Drugstore / Pharmacy",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1076,7 +1076,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "College Library",
-				"Description": "no",
+				"Main entrance": "no",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "yes_at_side",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1093,7 +1093,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Office",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1110,7 +1110,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Thrift / Vintage Store",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1127,7 +1127,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "College Administrative Building",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1144,7 +1144,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Boutique",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_kinda_heavy",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1161,7 +1161,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "German Restaurant",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1178,7 +1178,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Coffee Shop",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1195,7 +1195,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Jewelry Store",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1212,7 +1212,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Clothing Store",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1229,7 +1229,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "American Restaurant",
-				"Description": "yes_wide_with_good_ramp",
+				"Main entrance": "yes_wide_with_good_ramp",
 				"Main door": "yes_power_assist_door",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1246,7 +1246,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Sandwich Place",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
@@ -1263,7 +1263,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Bakery",
-				"Description": "limited_tight_door_andor_subpar_ramp",
+				"Main entrance": "limited_tight_door_andor_subpar_ramp",
 				"Main door": "limited_kinda_narrow",
 				"Alternative ent": "NA_alt_not_needed",
 				"Restrooms accessible": "NA_no_rest_ava",
@@ -1280,7 +1280,7 @@
 			"type": "Feature",
 			"properties": {
 				"Title": "Café",
-				"Description": "limited_one_step_no_ramp",
+				"Main entrance": "limited_one_step_no_ramp",
 				"Main door": "limited_wide_and_light",
 				"Alternative ent": "no_accessible_entrance",
 				"Restrooms accessible": "yes_spacious_w_grab_bars",
