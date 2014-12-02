@@ -1,0 +1,194 @@
+<h5><a href='/'>Return to search</a></h5>
+<h3><%= venue_name %> (<%= venue_type %>)</h3>
+<h4><%= venue["location"]["address"] %></h4>
+<div style="width:100%;margin-bottom:20px" class="form-inline">
+	<br/>
+	<form id="form-post-reviews" action="/assessment" method="post" style="float:none; margin: 0 auto;">
+		<script type="application/javascript">var venueId ='<%= venueid %>';
+		
+		</script>
+		
+			<!-- start of panel body -->
+			
+				
+						<div>
+							<fieldset>
+								<h4>
+									Is the main entrance wheelchair accessible? (choose one)
+								</h4>
+								<input id='venueid' type='hidden' name='venue_id' value='<%= venueid %>'/>
+								<input id='venuename' type='hidden' name='venue_name' value='<%= venue_name %>'/>
+								<input id='venuetype' type='hidden' name='venue_type' value='<%= venue_type %>'/>
+								<input id='venueadd' type='hidden' name='venue_lat' value='<%= venue["location"]["address"] %>'/>
+								<input id='venueloc' type='hidden' name='venue_lat' value='<%= venue["location"]["lat"] %>'/>
+								<input id='venueloc' type='hidden' name='venue_lng' value='<%= venue["location"]["lng"] %>'/>
+								<input id="yes_entrance" type="radio" name="main_entrance_accessible" value="yes_wide_with_good_ramp" required/>
+								<label for="yes_entrance">YES: wide door, good ramp</label>
+								<br>
+								<input id="limited_tight_door" type="radio" name="main_entrance_accessible" value="limited_tight_door_andor_subpar_ramp"/>
+								<label for="limited_tight_door">LIMITED: tight door/subpar ramp</label>
+								<br>
+								<input id="limited_one_step_port_ramp" type="radio" name="main_entrance_accessible" value="limited_one_step_port_ramp"/>
+								<label for="limited_one_step_port_ramp">LIMITED: 1 step, portable ramp available</label>
+								<br>
+								<input id="limited_one_no_ramp" type="radio" name="main_entrance_accessible" value="limited_one_step_no_ramp"/>
+								<label for="limited_one_no_ramp">LIMITED: one step, no ramp</label>
+								<br>
+								<input id="no_main" type="radio" name="main_entrance_accessible" value="no"/>
+								<label for="no_main">NO: door too narrow, 2+ steps, etc.</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Is the main door easy to use? (choose one)
+								</h4>
+								<input id="yes_power_assist_door" type="radio" name="main_door" value="yes_power_assist_door" required/>
+								<label for="yes_power_assist_door">YES: power assist door</label>
+								<br>
+								<input id="limited_wide_and_light" type="radio" name="main_door" value="limited_wide_and_light"/>
+								<label for="limited_wide_and_light">LIMITED: wide and light</label>
+								<br>
+								<input id="limited_kinda_heavy" type="radio" name="main_door" value="limited_kinda_heavy"/>
+								<label for="limited_kinda_heavy">LIMITED: kinda heavy</label>
+								<br>
+								<input id="limited_kinda_narrow" type="radio" name="main_door" value="limited_kinda_narrow"/>
+								<label for="limited_kinda_narrow">LIMITED: kinda narrow</label>
+								<br>
+								<input id="no_narrow" type="radio" name="main_door" value="no_narrow_andor_too_heavy"/>
+								<label for="no_narrow">NO: too narrow or too heavy</label>
+								<br>
+								<input id="na_door" type="radio" name="main_door" value="no_door"/>
+								<label for="na_door">N/A: No door at this place</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									If the main entrance is inaccessible, is there a separate wheelchair accessible entrance? (choose one)
+								</h4>
+								<input id="rear" type="radio" name="alt_accessible_entrance_ava" value="yes_at_rear" required/>
+								<label for="rear">YES: at the rear</label>
+								<br>
+								<input id="side" type="radio" name="alt_accessible_entrance_ava" value="yes_at_side"/>
+								<label for="side">YES: at the side</label>
+								<br>
+								<input id="no_alt" type="radio" name="alt_accessible_entrance_ava" value="no_accessible_entrance"/>
+								<label for="no_alt">NO: no accessible entrance</label>
+								<br>
+								<input id="na_alt" type="radio" name="alt_accessible_entrance_ava" value="NA_alt_not_needed"/>
+								<label for="na_alt">N/A: main entrance accessible</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Is the separate accessible entrance well marked? (choose one)
+								</h4>
+								<input id="yes_clear_visible_signs" type="radio" name="separate_entrance_well_marked" value="yes_clear_visible_signs" required/>
+								<label for="yes_clear_visible_signs">YES: clear, visible sign(s)</label>
+								<br>
+								<input id="limited_signs" type="radio" name="separate_entrance_well_marked" value="limited_confusing_or_hard_to_see"/>
+								<label for="limited_signs">LIMITED: signs confusing/hard to see</label>
+								<br>
+								<input id="no_signs" type="radio" name="separate_entrance_well_marked" value="no_signs_at_all"/>
+								<label for="no_signs">NO: no signs at all</label>
+								<br>
+								<input id="na_signs" type="radio" name="separate_entrance_well_marked" value="NA_main_entrance_accessible"/>
+								<label for="na_signs">N/A: main entrance accessible</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Is the interior easy to navigate? (choose one)
+								</h4>
+								<input id="yes_easy_nav" type="radio" name="easy_navigation" value="yes_pathways_wide_and_clear" required/>
+								<label for="yes_easy_nav">YES: all pathways are wide and clear</label>
+								<br>
+								<input id="limited_narrow" type="radio" name="easy_navigation" value="limited_some_narrow_pathways"/>
+								<label for="limited_narrow">LIMITED: some narrow pathways</label>
+								<br>
+								<input id="limited_not_all_areas" type="radio" name="easy_navigation" value="limited_not_all_areas_accessible"/>
+								<label for="limited_not_all_areas">LIMITED: not all areas accessible</label>
+								<br>
+								<input id="no_all_narrow" type="radio" name="easy_navigation" value="no_all_paths_narrow"/>
+								<label for="no_all_narrow">NO: all pathways are narrow</label>
+								<br>
+								<input id="unknown_nav" type="radio" name="easy_navigation" value="could_not_assess"/>
+								<label for="unknown_nav">Could not assess</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Are the restrooms wheelchair accessible? (choose one)
+								</h4>
+								<input id="yes_spacious_grab" type="radio" name="restrooms_accessible" value="yes_spacious_w_grab_bars" required/>
+								<label for="yes_spacious_grab">YES - spacious, good grab bars</label>
+								<br>
+								<input id="limited_no_grab_bars" type="radio" name="restrooms_accessible" value="limited_no_grab_bars"/>
+								<label for="limited_no_grab_bars">LIMITED - no grab bars</label>
+								<br>
+								<input id="limited_kinda_small" type="radio" name="restrooms_accessible" value="limited_kinda_small"/>
+								<label for="limited_kinda_small">LIMITED - kinda small</label>
+								<br>
+								<input id="no_too_small" type="radio" name="restrooms_accessible" value="no_too_small"/>
+								<label for="no_too_small">NO - too small</label>
+								<br>
+								<input id="no_rest_ava" type="radio" name="restrooms_accessible" value="NA_no_rest_ava"/>
+								<label for="no_rest_ava">N/A - no restroom available</label>
+								<br>
+								<input id="unable_to_assess_rest" type="radio" name="restrooms_accessible" value="cound_not_assess"/>
+								<label for="unable_to_assess_rest">Could not assess</label>
+							</fieldset>
+						</div>
+					<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Is the staff responsive to your needs? (choose one)
+								</h4>
+								<input id="yes_attentive" type="radio" name="staff_reponsive" value="yes" required/>
+								<label for="yes_attentive">YES</label>
+								<br>
+								<input id="limited_attentive" type="radio" name="staff_reponsive" value="limited"/>
+								<label for="limited_attentive">LIMITED</label>
+								<br>
+								<input id="no_attentive" type="radio" name="staff_reponsive" value="no"/>
+								<label for="no_attentive">NO</label>
+							</fieldset>
+						</div>
+						<br/>
+						<div>
+							<fieldset>
+								<h4>
+									Describe the noise level (choose one)
+								</h4>
+								<input id="quiet_noise" type="radio" name="noise_level" value="quiet" required/>
+								<label for="quiet_noise">QUIET</label>
+								<br>
+								<input id="moderate_noise" type="radio" name="noise_level" value="moderate"/>
+								<label for="moderate_noise">MODERATE</label>
+								<br>
+								<input id="loud_noise" type="radio" name="noise_level" value="loud"/>
+								<label for="loud_noise">LOUD</label>
+								<br>
+								<input id="unable_to_assess_noise" type="radio" name="noise_level" value="cound_not_assess"/>
+								<label for="unable_to_assess_noise">Could not assess</label>
+							</fieldset>
+						</div>
+						<div align='center'>
+							<p>
+								<input class="btn btn-primary" type="submit" value="Next..."/>
+							</p>
+						</div>
+		
+		
+	</form>
+</div>

@@ -1,0 +1,157 @@
+.leaflet-overlay-pane path, .leaflet-marker-icon {
+	cursor: pointer;
+}
+
+.leaflet-buttons-control-img {
+	cursor: pointer;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+  select:focus,
+  textarea:focus,
+  input:focus {
+    font-size: 16px;
+    background: #eee;
+  }
+}
+
+
+input:focus, input:active, label:active, label:focus, input[type="radio"]:checked+label, input[type="checkbox"]:checked+label {
+/*  color: #fff !important;*/
+/*  background-color: #ba2710 !important;*/
+    color: #000 !important;
+    background-color: #47b0cc !important;
+}
+
+.form-control {
+    color: #000;
+}
+
+#map {
+	height: 300px;
+}
+
+label.error {
+    color: red;
+    width: 100%;   
+}
+
+@media (min-height:650px) {
+
+  #map {
+	height: 525px;
+  }
+}
+
+.yelpPanel {
+	height: 300px;
+	overflow: scroll;
+}
+
+@media (min-height:650px) {
+
+  .yelpPanel {
+	height: 525px;
+	overflow: scroll;
+  }
+}
+
+#footer {
+	background-color: #F5F5F5;
+/*	height: 30px;*/
+    height: auto;
+}
+
+.red {
+	color: #FF0000;
+}
+
+body {
+	padding-top: 50px;
+}
+.main-body-content {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.spacer {
+	margin-top: 15px;
+}
+
+.spacer-small {
+	margin-top: 5px;
+}
+
+.legend {
+	line-height: 18px;
+	color: #555;
+}
+.legend i {
+	width: 18px;
+	height: 18px;
+	float: left;
+	margin-right: 8px;
+	opacity: 0.7;
+}
+
+.info {
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+	border-radius: 5px 5px 5px 5px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+	font: 14px/18px Arial, Helvetica, sans-serif;
+	padding: 6px 8px;
+}
+
+.info h4 {
+	margin: 0 0 5px;
+	color: #777;
+}
+
+@media screen and (max-width: 800px) {
+	.info {
+		display: none !important;
+	}
+}
+
+/* for header images*/
+.navbrand-img {
+
+}
+
+.navimg {
+	float: left;
+}
+
+.leaflet-control-locate {
+	border: 1px solid rgba(0,0,0,0.4);
+}
+.leaflet-control-locate a {
+	background-color: #fff;
+	background-position: -3px, -2px;
+}
+.leaflet-control-locate.active a {
+	background-position: -33px -2px;
+}
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+	/* height: 60px; */
+    height: auto;
+}
+#footer {
+	background-color: #f5f5f5;
+}
+
+@media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+
+.container .credit {
+        margin: 20px 0;
+        text-align: center;
+}

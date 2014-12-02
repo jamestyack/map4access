@@ -1,0 +1,24 @@
+<h4>Review and confirm...<h4>
+<h4><%= @assessment['venue_name'] %></h4>
+
+<div style="width:100%;margin-bottom:20px" class="form-inline">
+ 
+<% @assessment.each do |k, v| %>
+<% if (k != 'venue_id' && k != 'venue_name' && k != 'venue_type' && k != 'venue_lat' && k != 'venue_lng') %>- <strong><%= k.gsub('_',' ') %>? </strong><%= v.gsub('_',' ') %><br/><% end %>
+<% end %>
+</ul>
+
+<div class='panel'>
+<strong>Assessment will be saved for internal testing use.</strong>
+</div>
+
+<div>
+	<form id="form-post-reviews" action="/postassessment" method="post" style="float:none; margin: 0 auto;">
+	<label for'trialkey'>Trial Key</label><input id='trialkey' size="5" name='trialkey'></input>
+	<% @assessment.each do |k, v| %><input type='hidden' name='<%= k %>' value='<%= v %>' />
+	<% end %><button type='submit' alt='Agree and submit'>Confirm</button>
+	</div>
+	</form>
+<br/><br/>
+<h5><a href='/places'>Or go back and find another place</a></h5>
+</div>

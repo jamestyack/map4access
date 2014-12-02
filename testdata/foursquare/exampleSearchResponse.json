@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4c6ebd925d089c74961208c3",
+        "name": "Omega Institute for Holistic Studies",
+        "contact": {
+          "phone": "8452664444",
+          "formattedPhone": "(845) 266-4444"
+        },
+        "location": {
+          "address": "150 Lake Dr",
+          "lat": 41.88566187699883,
+          "lng": -73.82078420109023,
+          "distance": 11,
+          "postalCode": "12572",
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "150 Lake Dr",
+            "Rhinebeck, NY 12572",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1a8941735",
+            "name": "General College & University",
+            "pluralName": "General Colleges & Universities",
+            "shortName": "Education",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/education/other_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 628,
+          "usersCount": 259,
+          "tipCount": 2
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4c5dd3ad857ca593ac12cecb",
+        "name": "Cafe Omega",
+        "contact": {},
+        "location": {
+          "address": "150 Lake Dr",
+          "crossStreet": "at Omega Institute",
+          "lat": 41.88564878333333,
+          "lng": -73.82081641666667,
+          "distance": 11,
+          "postalCode": "12572-3252",
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "150 Lake Dr (at Omega Institute)",
+            "Rhinebeck, NY 12572-3252",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 128,
+          "usersCount": 51,
+          "tipCount": 3
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4e46ca3c18a8f9804ccd9fc7",
+        "name": "Hammock @ Omega - Heaven",
+        "contact": {},
+        "location": {
+          "lat": 41.88548819470375,
+          "lng": -73.82079568893069,
+          "distance": 9,
+          "cc": "US",
+          "state": "New York",
+          "country": "United States",
+          "formattedAddress": [
+            "New York",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4d4b7105d754a06377d81259",
+            "name": "Outdoors & Recreation",
+            "pluralName": "Outdoors & Recreation",
+            "shortName": "Outdoors & Recreation",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 11,
+          "usersCount": 8,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4c6f16f5f52cb713e188a7af",
+        "name": "Ram Dass Library - Omega Institute",
+        "contact": {},
+        "location": {
+          "address": "150 Lake Dr",
+          "lat": 41.88564267621824,
+          "lng": -73.82092205513162,
+          "distance": 17,
+          "postalCode": "12572",
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "150 Lake Dr",
+            "Rhinebeck, NY 12572",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1a7941735",
+            "name": "College Library",
+            "pluralName": "College Libraries",
+            "shortName": "Library",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 11,
+          "usersCount": 8,
+          "tipCount": 1
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "5206687611d2406104d41fa8",
+        "name": "Omega Garden",
+        "contact": {},
+        "location": {
+          "lat": 41.88557944841115,
+          "lng": -73.8210024699448,
+          "distance": 21,
+          "cc": "US",
+          "state": "New York",
+          "country": "United States",
+          "formattedAddress": [
+            "New York",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d15a941735",
+            "name": "Garden",
+            "pluralName": "Gardens",
+            "shortName": "Garden",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 4,
+          "usersCount": 3,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "51e49f71498eb68b16d4c62e",
+        "name": "Omega Bookstore",
+        "contact": {},
+        "location": {
+          "lat": 41.885748,
+          "lng": -73.82091,
+          "distance": 24,
+          "cc": "US",
+          "state": "New York",
+          "country": "United States",
+          "formattedAddress": [
+            "New York",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d114951735",
+            "name": "Bookstore",
+            "pluralName": "Bookstores",
+            "shortName": "Bookstore",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 4,
+          "usersCount": 3,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4e177aa96284ea7246eee304",
+        "name": "Omega Institute Labrynth",
+        "contact": {},
+        "location": {
+          "lat": 41.885999,
+          "lng": -73.821712,
+          "distance": 93,
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Rhinebeck, NY",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d162941735",
+            "name": "Other Great Outdoors",
+            "pluralName": "Other Great Outdoors",
+            "shortName": "Other Outdoors",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 3,
+          "usersCount": 3,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "5206d40511d20dff2e68b760",
+        "name": "Lake Theater",
+        "contact": {},
+        "location": {
+          "lat": 41.884824,
+          "lng": -73.820166,
+          "distance": 95,
+          "cc": "US",
+          "state": "New York",
+          "country": "United States",
+          "formattedAddress": [
+            "New York",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d137941735",
+            "name": "Theater",
+            "pluralName": "Theaters",
+            "shortName": "Theater",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2,
+          "usersCount": 2,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4e18378188777e96476df947",
+        "name": "Omega Institute, Cabin 33A",
+        "contact": {},
+        "location": {
+          "lat": 41.886588,
+          "lng": -73.821216,
+          "distance": 120,
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Rhinebeck, NY",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 0,
+          "usersCount": 0,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      },
+      {
+        "id": "4cafc99f9b34199c8667b763",
+        "name": "Omega Center for Sustainable Living",
+        "contact": {},
+        "location": {
+          "address": "150 Lake Ave",
+          "lat": 41.88545206486841,
+          "lng": -73.8191816408206,
+          "distance": 129,
+          "cc": "US",
+          "city": "Rhinebeck",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "150 Lake Ave",
+            "Rhinebeck, NY",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Building",
+            "pluralName": "Buildings",
+            "shortName": "Building",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 8,
+          "usersCount": 8,
+          "tipCount": 1
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1413747838"
+      }
+    ],
+    "confident": true
+  }
+}

@@ -1,0 +1,49 @@
+Is the main entrance wheelchair accessible? (choose one)
+YES - wide door with good ramp
+LIMITED - tight door and/or subpar ramp
+LIMITED - one step, portable ramp available
+LIMITED - one step, no ramp
+NO - door too narrow, 2+ steps, etc.
+
+
+Is the main door easy to use? (choose one)
+YES - power assist door
+LIMITED - wide and light
+LIMITED - kinda heavy
+LIMITED - kinda narrow
+NO - too narrow and/or too heavy
+
+
+If the main entrance is inaccessible, is there a separate wheelchair accessible entrance? (choose one)
+YES - at the rear 
+YES - at the side
+NO - no accessible entrance
+N/A - the main entrance is accessible, no alternative needed
+
+
+Is the separate accessible entrance well marked? (choose one)
+YES - clear, visible sign(s)
+LIMITED - signs are confusing and/or obscurely placed
+NO - no signs at all
+N/A - the main entrance is accessible, no alternative needed
+
+
+Is the interior easy to navigate? (choose one)
+YES - all pathways are wide and clear
+LIMITED - some narrow pathways
+LIMITED - not all areas accessible
+NO - all pathways are narrow 
+
+
+Are the restrooms wheelchair accessible? (choose one)
+YES - spacious, good grab bars 
+LIMITED - no grab bars
+LIMITED - kinda small
+NO - too small
+N/A - no restroom available
+
+
+Describe the noise level (choose one)
+Quiet 
+Moderate 
+Loud

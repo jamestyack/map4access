@@ -1,0 +1,196 @@
+{
+  "questions": [
+    {
+      "question": "Is the <strong>main entrance</strong> wheelchair accessible?",
+      "storedQuestion": "main_entrance",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - wide door with good ramp",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED - tight door and/or subpar ramp",
+          "storedValue": "ltd_tight_door"
+        },
+        {
+          "text": "LIMITED - one step, portable ramp available",
+          "storedValue": "ltd_one_step_ramp"
+        },
+        {
+          "text": "LIMITED - one step, no ramp",
+          "storedValue": "ltd_one_step_no_ramp"
+        },
+        {
+          "text": "NO - door too narrow, 2+ steps, etc.",
+          "storedValue": "no"
+        }
+      ]
+    },
+    {
+      "question": "Is the <strong>main door</strong> easy to use?",
+      "storedQuestion": "main_door",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - power assist door",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED - wide and light",
+          "storedValue": "ltd_wide_light"
+        },
+        {
+          "text": "LIMITED - kinda heavy",
+          "storedValue": "ltd_heavy"
+        },
+        {
+          "text": "LIMITED - kinda narrow",
+          "storedValue": "ltd_narrow"
+        },
+        {
+          "text": "NO - too narrow and/or too heavy",
+          "storedValue": "no"
+        },
+        {
+          "text": "N/A - No door at this place",
+          "storedValue": "na"
+        }
+      ]
+    },
+    {
+      "question": "If the main entrance is inaccessible, is there a <strong>separate wheelchair accessible entrance</strong>?",
+      "storedQuestion": "separate_entrance",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - at the rear",
+          "storedValue": "yes_rear"
+        },
+        {
+          "text": "YES - at the side",
+          "storedValue": "yes_side"
+        },
+        {
+          "text": "NO - no accessible entrance",
+          "storedValue": "no"
+        },
+        {
+          "text": "N/A - main entrance is accessible, no alt needed",
+          "storedValue": "NA"
+        }
+      ]
+    },
+    {
+      "question": "Is the separate accessible entrance well marked?",
+      "storedQuestion": "separate_entrance",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - clear, visible sign(s)",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED - signs are confusing and/or obscurely placed",
+          "storedValue": "ltd"
+        },
+        {
+          "text": "NO - no signs at all",
+          "storedValue": "no"
+        },
+        {
+          "text": "N/A - main entrance is accessible, no alt needed",
+          "storedValue": "NA"
+        }
+      ]
+    },
+    {
+      "question": "Is the interior easy to navigate?",
+      "storedQuestion": "easy_navigation",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - all pathways are wide and clear",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED - some narrow pathways",
+          "storedValue": "ltd_some_narrow"
+        },
+        {
+          "text": "LIMITED - not all areas accessible",
+          "storedValue": "ltd_no_all_areas"
+        },
+        {
+          "text": "NO - all pathways are narrow",
+          "storedValue": "no"
+        }
+      ]
+    },
+    {
+      "question": "Are the <strong>restrooms</strong> wheelchair accessible?",
+      "storedQuestion": "restrooms",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES - spacious, good grab bars",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED - no grab bars",
+          "storedValue": "ltd_no_grab"
+        },
+        {
+          "text": "LIMITED - kinda small",
+          "storedValue": "ltd_kinda_small"
+        },
+        {
+          "text": "NO - too small",
+          "storedValue": "no_too_small"
+        },
+        {
+          "text": "N/A - no restroom available",
+          "storedValue": "na"
+        }
+      ]
+    },
+    {
+      "question": "Is the staff responsive to your needs?",
+      "storedQuestion": "staff_responsive",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "YES",
+          "storedValue": "yes"
+        },
+        {
+          "text": "LIMITED",
+          "storedValue": "limited"
+        },
+        {
+          "text": "NO - too small",
+          "storedValue": "no"
+        }
+      ]
+    },
+    {
+      "question": "Describe the <strong>noise level</strong>",
+      "storedQuestion": "staff_responsive",
+      "type": "radio",
+      "answers": [
+        {
+          "text": "Quiet",
+          "storedValue": "quiet"
+        },
+        {
+          "text": "Moderate",
+          "storedValue": "moderate"
+        },
+        {
+          "text": "Loud",
+          "storedValue": "loud"
+        }
+      ]
+    }
+  ]
+}
