@@ -1,3 +1,4 @@
-# Map4Access
+map4access
+==========
 
-Mapping accessible/inaccessible places
+Collecting accessibility info
